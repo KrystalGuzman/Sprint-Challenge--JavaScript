@@ -83,6 +83,10 @@ Once you have the new array created, sort the universities alphabetically and lo
 // universities.sort();
 // console.log(universities);
 
+// const universities = [];
+// graduates.forEach((items)=>universities.push(items.university));
+// universities.sort();
+// console.log(universities);
 // //or
 
 const universities = [];
@@ -103,7 +107,9 @@ Log the result of your new array. */
 //   contactInfo.push(`${info.first_name} ${info.email}`);
 // });
 // console.log(contactInfo);
-
+// const contactInfo = [];
+// graduates.forEach((info)=>contactInfo.push(`${info.first_name} ${info.email}`));
+// console.log(contactInfo);
 //or
 
 const contactInfo = [];
